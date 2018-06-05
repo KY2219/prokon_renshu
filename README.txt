@@ -1,2 +1,2 @@
-Main1.java  ƒ^ƒkƒL–â‘è
-Main2.java  PPAP–â‘è
+Main1.java  "tanuki"
+Main2.java  "PPAP"
